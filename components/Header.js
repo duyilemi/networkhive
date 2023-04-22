@@ -34,9 +34,9 @@ function Header() {
         {mounted && (
           <>
             {resolvedTheme === "dark" ? (
-              <Image src="/Linkedin-logo.png" width={45} height={45} />
+              <Image src="/hive.png" width={45} height={45} />
             ) : (
-              <Image src="/Linkedin-logo.png" width={55} height={55} />
+              <Image src="/hive.png" width={55} height={55} />
             )}
           </>
         )}
